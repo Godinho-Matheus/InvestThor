@@ -14,6 +14,6 @@ Microsserviço de backend prático que consulta uma API financeira externa, filt
 
 ### 🛠 Tech Stack
 * **Linguagem:** Java 21 (Records)
-* **Framework:** Spring Boot 3.x
+* **Framework:** Spring Boot 4.0.1
 * **Comunicação:** Spring RestClient
 * **Processamento:** Streams API
